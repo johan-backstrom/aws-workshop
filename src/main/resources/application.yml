@@ -1,0 +1,9 @@
+server:
+  contextPath: /
+  port: 8080
+
+mariadb:
+  database: people
+  username: root
+  host: localhost
+  password: secret
